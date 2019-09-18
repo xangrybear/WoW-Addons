@@ -1,0 +1,939 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007079,
+							["friendlyfire"] = {
+							},
+							["damage_from"] = {
+								["Ragged Young Wolf"] = true,
+							},
+							["targets"] = {
+								["Ragged Young Wolf"] = 47,
+							},
+							["colocacao"] = 1,
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 47.007079,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 47.007079,
+							["classe"] = "ROGUE",
+							["serial"] = "Player-4372-00B3455C",
+							["nome"] = "Quizzel",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									["Eviscerate"] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 10,
+										["targets"] = {
+											["Ragged Young Wolf"] = 10,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10,
+										["n_min"] = 10,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 10,
+										["c_max"] = 0,
+										["id"] = "Eviscerate",
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									["Sinister Strike"] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Ragged Young Wolf"] = 7,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 7,
+										["c_max"] = 0,
+										["id"] = "Sinister Strike",
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									["!Melee"] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 16,
+										["g_amt"] = 1,
+										["n_max"] = 4,
+										["targets"] = {
+											["Ragged Young Wolf"] = 24,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4,
+										["n_min"] = 4,
+										["g_dmg"] = 4,
+										["counter"] = 4,
+										["total"] = 24,
+										["c_max"] = 9,
+										["id"] = "!Melee",
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 7,
+									},
+									["!Autoshot"] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Ragged Young Wolf"] = 6,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 6,
+										["c_max"] = 0,
+										["id"] = "!Autoshot",
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1567987920,
+							["last_dps"] = 5.28466318156026,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 3.007079,
+							["start_time"] = 1567987911,
+							["delay"] = 0,
+							["last_event"] = 1567987919,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.006256,
+							["damage_from"] = {
+								["Quizzel"] = true,
+								["Melak"] = true,
+								["Jebemti"] = true,
+							},
+							["targets"] = {
+								["Quizzel"] = 3,
+								["Melak"] = 3,
+								["Jebemti"] = 10,
+							},
+							["timeMachine"] = 9,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 16.006256,
+							["on_hold"] = true,
+							["dps_started"] = true,
+							["total"] = 16.006256,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4403-0-8617-705-0000F59833",
+							["nome"] = "Ragged Young Wolf",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Quizzel"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["DODGE"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									["!Melee"] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2,
+										["targets"] = {
+											["Quizzel"] = 3,
+											["Melak"] = 3,
+											["Jebemti"] = 10,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 16,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 16,
+										["c_max"] = 0,
+										["id"] = "!Melee",
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 11,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 133.006256,
+							["start_time"] = 1567987912,
+							["delay"] = 1567987947,
+							["last_event"] = 1567987947,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 1,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 1,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 1,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["nome"] = "Quizzel",
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["spell_cast"] = {
+								["Sinister Strike"] = 1,
+								["Eviscerate"] = 1,
+							},
+							["serial"] = "Player-4372-00B3455C",
+							["classe"] = "ROGUE",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Quizzel"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["overall_added"] = true,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+				},
+				["tempo_start"] = 1567987911,
+				["enemy"] = "Ragged Young Wolf",
+				["combat_counter"] = 8,
+				["playing_solo"] = true,
+				["totals"] = {
+					62.98788, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatEndedAt"] = 46544.855,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "20:11:52",
+				["end_time"] = 46544.855,
+				["totals_grupo"] = {
+					47, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["combat_id"] = 1,
+				["TotalElapsedCombatTime"] = 46544.855,
+				["frags_need_refresh"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Quizzel"] = 47.007079,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+					["Ragged Young Wolf"] = 2,
+				},
+				["data_fim"] = "20:12:01",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 46535.96,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [1]
+		},
+	},
+	["last_version"] = "v1.13.2.153",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1569283652,
+		["last_version"] = 11,
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "Quizzel-Atiesh",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["showamount"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["last_day"] = "08",
+	["cached_talents"] = {
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_realversion"] = 140,
+	["combat_id"] = 1,
+	["savedStyles"] = {
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["combat_counter"] = 8,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.010098,
+					["damage_from"] = {
+						["Ragged Young Wolf"] = true,
+					},
+					["targets"] = {
+						["Ragged Young Wolf"] = 47,
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["classe"] = "ROGUE",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 47.010098,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1567987921,
+					["friendlyfire_total"] = 0,
+					["friendlyfire"] = {
+					},
+					["nome"] = "Quizzel",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							["Eviscerate"] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 10,
+								["targets"] = {
+									["Ragged Young Wolf"] = 10,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 10,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 10,
+								["c_max"] = 0,
+								["id"] = "Eviscerate",
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							["!Autoshot"] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 6,
+								["targets"] = {
+									["Ragged Young Wolf"] = 6,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 6,
+								["c_max"] = 0,
+								["id"] = "!Autoshot",
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							["Sinister Strike"] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 7,
+								["targets"] = {
+									["Ragged Young Wolf"] = 7,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 7,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 7,
+								["c_max"] = 0,
+								["id"] = "Sinister Strike",
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							["!Melee"] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 16,
+								["g_amt"] = 1,
+								["n_max"] = 4,
+								["targets"] = {
+									["Ragged Young Wolf"] = 24,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4,
+								["n_min"] = 0,
+								["g_dmg"] = 4,
+								["counter"] = 4,
+								["total"] = 24,
+								["c_max"] = 9,
+								["id"] = "!Melee",
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["total"] = 47.010098,
+					["serial"] = "Player-4372-00B3455C",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 3.010098,
+					["start_time"] = 1567987909,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.014865,
+					["damage_from"] = {
+						["Quizzel"] = true,
+						["Melak"] = true,
+					},
+					["targets"] = {
+						["Melak"] = 3,
+						["Quizzel"] = 3,
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 6.014865,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["end_time"] = 1567987921,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
+					["nome"] = "Ragged Young Wolf",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Quizzel"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["DODGE"] = 1,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							["!Melee"] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 2,
+								["targets"] = {
+									["Melak"] = 3,
+									["Quizzel"] = 3,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 6,
+								["c_max"] = 0,
+								["id"] = "!Melee",
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire_total"] = 0,
+					["total"] = 6.014865,
+					["serial"] = "Creature-0-4403-0-8617-705-0000F59833",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 54.014865,
+					["start_time"] = 1567987910,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["nome"] = "Quizzel",
+					["grupo"] = true,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["classe"] = "ROGUE",
+					["spell_cast"] = {
+						["Sinister Strike"] = 1,
+						["Eviscerate"] = 1,
+					},
+					["serial"] = "Player-4372-00B3455C",
+					["last_event"] = 0,
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1567987911,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 7,
+		["totals"] = {
+			60.017402, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["spells_cast_timeline"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "20:11:52",
+		["end_time"] = 46544.855,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 8.89500000000408,
+				["type"] = 0,
+				["name"] = "Ragged Young Wolf",
+				["clock"] = "20:11:52",
+			}, -- [1]
+		},
+		["totals_grupo"] = {
+			47.007079, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["data_fim"] = "20:12:01",
+		["overall_enemy_name"] = "Ragged Young Wolf",
+		["CombatSkillCache"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["start_time"] = 46535.96,
+		["TimeData"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+	},
+	["force_font_outline"] = "",
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -620.003479003906,
+					["x"] = 1125.00756835938,
+					["w"] = 310.000213623047,
+					["h"] = 157.999984741211,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["character_data"] = {
+		["logons"] = 3,
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+	},
+}

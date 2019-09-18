@@ -1,0 +1,12 @@
+## Interface: 11302
+## Author: pjp (Pixel-Draka (US) <From Chaos>, Moxie-Classic Beta PvP <Always East>)
+## Version: 0.91
+## Title: Rebuff
+## Notes: Check for missing buffs
+## SavedVariablesPerCharacter: RebuffDB
+## OptionalDeps: 
+## DefaultState: enabled
+
+embeds.xml
+Rebuff.lua
+config.lua

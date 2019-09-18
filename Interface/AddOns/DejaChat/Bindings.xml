@@ -1,0 +1,14 @@
+<Bindings>
+	<Binding name="CLICK ChatFrame1Tab:LeftButton" header="DEJACHATTABS" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame2Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame3Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame4Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame5Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame6Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame7Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame8Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame9Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK ChatFrame10Tab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK NextChatFrameTab:LeftButton" category="DejaAddOns"></Binding>
+	<Binding name="CLICK PreviousChatFrameTab:LeftButton" category="DejaAddOns"></Binding>
+</Bindings>

@@ -1,0 +1,68 @@
+VER 3 0000000000000008 "Cure Disease1" "INV_MISC_QUESTIONMARK"
+#showtooltip Cure Disease
+/use [@mouseover,help,nodead][help,nodead][@player] Cure Disease
+END
+VER 3 000000000000000C "Dispell1" "INV_MISC_QUESTIONMARK"
+#showtooltip Dispel Magic(Rank 1)
+/use [@mouseover,help,nodead][help,nodead][@player] Dispel Magic(Rank 1)
+END
+VER 3 000000000000000B "Flash1" "INV_MISC_QUESTIONMARK"
+#showtooltip Flash Heal(Rank 1)
+/use [@mouseover,help,nodead][help,nodead][@player] Flash Heal(Rank 1)
+END
+VER 3 0000000000000010 "Flash2" "INV_MISC_QUESTIONMARK"
+#showtooltip Flash Heal(Rank 2)
+/use [@mouseover,help,nodead][help,nodead][@player] Flash Heal(Rank 2)
+END
+VER 3 0000000000000009 "Heal1" "INV_MISC_QUESTIONMARK"
+#showtooltip Heal(Rank 1)
+/use [@mouseover,help,nodead][help,nodead][@player] Heal(Rank 1)
+END
+VER 3 000000000000000E "Heal2" "INV_MISC_QUESTIONMARK"
+#showtooltip Heal(Rank 2)
+/use [@mouseover,help,nodead][help,nodead][@player] Heal(Rank 2)
+END
+VER 3 000000000000000F "Heal3" "INV_MISC_QUESTIONMARK"
+#showtooltip Heal(Rank 3)
+/use [@mouseover,help,nodead][help,nodead][@player] Heal(Rank 3)
+END
+VER 3 0000000000000001 "Lesser Heal1" "INV_MISC_QUESTIONMARK"
+#showtooltip Lesser Heal(Rank 1)
+/use [@mouseover,help,nodead][help,nodead][@player] Lesser Heal(Rank 1)
+END
+VER 3 0000000000000002 "Lesser Heal2" "INV_MISC_QUESTIONMARK"
+#showtooltip Lesser Heal(Rank 2)
+/use [@mouseover,help,nodead][help,nodead][@player] Lesser Heal(Rank 2)
+END
+VER 3 0000000000000005 "Lesser Heal3" "INV_MISC_QUESTIONMARK"
+#showtooltip Lesser Heal(Rank 3)
+/use [@mouseover,help,nodead][help,nodead][@player] Lesser Heal(Rank 3)
+END
+VER 3 000000000000000D "PSW4" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield(Rank 4)
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Shield(Rank 4)
+END
+VER 3 0000000000000007 "PWF2" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Fortitude(Rank 3)
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: FOrtitude(Rank 3)
+END
+VER 3 0000000000000003 "PWS 1" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield(Rank 1)
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Shield(Rank 1)
+END
+VER 3 0000000000000006 "PWS 2" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield(Rank 2)
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Shield(Rank 2)
+END
+VER 3 000000000000000A "PWS3" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield(Rank 3)
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Shield(Rank 3)
+END
+VER 3 0000000000000011 "PWS5" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield(Rank 5)
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Shield(Rank 5)wd w
+END
+VER 3 0000000000000004 "Renew" "INV_MISC_QUESTIONMARK"
+#showtooltip Renew(Rank 4)
+/use [@mouseover,help,nodead][help,nodead][@player] Renew(Rank 4)
+END

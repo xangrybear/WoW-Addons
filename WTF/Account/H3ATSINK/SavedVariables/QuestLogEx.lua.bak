@@ -1,0 +1,19 @@
+
+QuestLogExDB = {
+	["profileKeys"] = {
+		["Quizzel - Atiesh"] = "Quizzel - Atiesh",
+		["Falcorne - Skeram"] = "Falcorne - Skeram",
+		["Zombear - Skeram"] = "Zombear - Skeram",
+		["Garlicbear - Skeram"] = "Garlicbear - Skeram",
+	},
+	["profiles"] = {
+		["Quizzel - Atiesh"] = {
+		},
+		["Falcorne - Skeram"] = {
+		},
+		["Zombear - Skeram"] = {
+		},
+		["Garlicbear - Skeram"] = {
+		},
+	},
+}

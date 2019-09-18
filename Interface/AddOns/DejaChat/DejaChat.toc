@@ -1,0 +1,7 @@
+## Interface: 80200
+## Version: 820r202
+## Title: DejaChat
+## Authors: Dejablue, Phanx
+## Notes: Dejablue's simple chat.
+
+DejaChat.lua

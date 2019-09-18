@@ -1,0 +1,40 @@
+
+DejaClassicStatsDB = {
+	["gdbdefaults"] = {
+		["DejaClassicStatsShowItemRepairChecked"] = {
+			["ShowItemRepairSetChecked"] = true,
+		},
+		["DejaClassicStatsShowAverageRepairChecked"] = {
+			["ShowAverageRepairSetChecked"] = true,
+		},
+		["dejacharacterstatsExpandButtonChecked"] = {
+			["ExpandButtonSetChecked"] = true,
+		},
+		["DejaClassicStatsShowItemLevelChecked"] = {
+			["ShowItemLevelSetChecked"] = true,
+		},
+		["DejaClassicStatsDesaturateScrollArtBackground"] = {
+			["DesaturateScrollArtBackgroundChecked"] = true,
+		},
+		["dejacharacterstatsExpandChecked"] = {
+			["ExpandSetChecked"] = true,
+		},
+		["DejaClassicStatsAlternateInfoPlacement"] = {
+			["AlternateInfoPlacementChecked"] = false,
+		},
+		["DejaClassicStatsShowDuraTextureChecked"] = {
+			["ShowDuraTextureSetChecked"] = true,
+		},
+		["DejaClassicStatsShowHideScrollArtBackground"] = {
+			["ShowHideScrollArtBackgroundChecked"] = true,
+		},
+		["DejaClassicStatsSimpleItemColorChecked"] = {
+			["SimpleItemColorChecked"] = false,
+			["DarkerItemColorChecked"] = false,
+		},
+		["DejaClassicStatsShowDuraChecked"] = {
+			["ShowDuraSetChecked"] = true,
+		},
+	},
+}
+DCS_ClassSpecDB = nil

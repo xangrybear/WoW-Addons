@@ -1,0 +1,44 @@
+
+AtlasLootClassicDB = {
+	["profileKeys"] = {
+		["Quizzel - Atiesh"] = "Quizzel - Atiesh",
+		["Falcorne - Skeram"] = "Falcorne - Skeram",
+		["Zombear - Skeram"] = "Zombear - Skeram",
+		["Garlicbear - Skeram"] = "Garlicbear - Skeram",
+	},
+	["global"] = {
+		["__addonrevision"] = 1010011,
+	},
+	["profiles"] = {
+		["Quizzel - Atiesh"] = {
+		},
+		["Falcorne - Skeram"] = {
+			["minimap"] = {
+				["minimapPos"] = 166.926044595189,
+			},
+		},
+		["Zombear - Skeram"] = {
+		},
+		["Garlicbear - Skeram"] = {
+			["GUI"] = {
+				["point"] = {
+					"TOPLEFT", -- [1]
+					nil, -- [2]
+					"TOPLEFT", -- [3]
+					51.0000076293945, -- [4]
+					-83.0000076293945, -- [5]
+				},
+				["selected"] = {
+					nil, -- [1]
+					"ScarletMonasteryArmory", -- [2]
+					nil, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
+			["minimap"] = {
+				["minimapPos"] = 171.817454761275,
+			},
+		},
+	},
+}

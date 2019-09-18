@@ -1,0 +1,76 @@
+
+RebuffDB = {
+	["shortnames"] = {
+		["10157,23028"] = "",
+		["10938,21564"] = "",
+		["9885,21850"] = "",
+		["10958,27683"] = "",
+		["27841,27681"] = "",
+	},
+	["tanks"] = {
+		[""] = 8,
+	},
+	["profileKeys"] = {
+		["Falcorne - Skeram"] = "Falcorne - Skeram",
+	},
+	["classbuffs"] = {
+	},
+	["db"] = {
+		["SetProfile"] = nil --[[ skipped inline function ]],
+		["callbacks"] = {
+			["recurse"] = 0,
+			["events"] = {
+			},
+			["Fire"] = nil --[[ skipped inline function ]],
+		},
+		["RegisterDefaults"] = nil --[[ skipped inline function ]],
+		["CopyProfile"] = nil --[[ skipped inline function ]],
+		["ResetProfile"] = nil --[[ skipped inline function ]],
+		["keys"] = {
+			["global"] = true,
+			["class"] = "HUNTER",
+			["profiles"] = true,
+			["char"] = "Falcorne - Skeram",
+			["race"] = "Orc",
+			["locale"] = "enus",
+			["faction"] = "Horde",
+			["profile"] = "Falcorne - Skeram",
+			["factionrealm"] = "Horde - Skeram",
+			["factionrealmregion"] = "Horde - Skeram - US",
+			["realm"] = "Skeram",
+		},
+		["UnregisterAllCallbacks"] = nil --[[ skipped inline function ]],
+		["DeleteProfile"] = nil --[[ skipped inline function ]],
+		["sv"] = nil --[[ skipped recursive table ]],
+		["RegisterCallback"] = nil --[[ skipped inline function ]],
+		["GetCurrentProfile"] = nil --[[ skipped inline function ]],
+		["ResetDB"] = nil --[[ skipped inline function ]],
+		["UnregisterCallback"] = nil --[[ skipped inline function ]],
+		["GetProfiles"] = nil --[[ skipped inline function ]],
+		["GetNamespace"] = nil --[[ skipped inline function ]],
+		["RegisterNamespace"] = nil --[[ skipped inline function ]],
+	},
+	["groups"] = {
+		["g1"] = false,
+		["g7"] = false,
+		["g3"] = false,
+		["g2"] = false,
+		["g4"] = false,
+		["g6"] = false,
+		["g5"] = false,
+		["g8"] = false,
+	},
+	["options"] = {
+		["size"] = "35",
+		["broadcast"] = false,
+		["solo"] = false,
+		["onlyOnce"] = false,
+		["channel"] = "RAID",
+		["raid"] = false,
+		["party"] = false,
+		["hide"] = false,
+	},
+	["minimap"] = {
+		["icon"] = 0,
+	},
+}
